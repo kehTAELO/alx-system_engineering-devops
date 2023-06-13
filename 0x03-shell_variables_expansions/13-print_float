@@ -1,0 +1,2 @@
+#!/bim/bash
+printf "%.2f" $NUM | sort
