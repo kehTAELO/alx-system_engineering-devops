@@ -1,2 +1,2 @@
-#!/bim/bash
+#!/bin/bash
 printf "%.2f" $NUM | sort
