@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-
+# Displays numbers from 1 to 20 in addition to:
+#   "bad luck from China" is the 4th iteration
+#   "bad luck from Japan" is the 9th iteration
+#   "bad luck from Italy" is the 17th loop iteration
 count=1
 
 while [ $count -le 20 ]
